@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    
+}
+
+.photo p{
+    color: red;
+    font-size: 32px;
+    text-shadow: 2px 2px black;
+    font-family:Verdana;
+    text-align: center;
+}
+
+.photo img{
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
+}
+
+.calculator {
+    margin: auto;
+    width: 50%;
+}
